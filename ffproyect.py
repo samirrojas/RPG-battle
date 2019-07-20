@@ -1,7 +1,5 @@
 #! /usr/bin/env python3
 
-# FF proyect
-
 import random
 import time
 
